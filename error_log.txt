@@ -1,0 +1,2 @@
+2024-10-07 00:31:30.868472 - Error generating token on attempt 1: 520 Server Error:  for url: https://user-domain.blum.codes/api/v1/auth/provider/PROVIDER_TELEGRAM_MINI_APP
+2024-10-07 00:39:09.934344 - Error generating token on attempt 1: 520 Server Error:  for url: https://user-domain.blum.codes/api/v1/auth/provider/PROVIDER_TELEGRAM_MINI_APP
